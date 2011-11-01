@@ -1,0 +1,18 @@
+#
+#   GC - T3
+#   
+#   Testat 3: Spiel des Lebens
+#   
+#   @author Philipp Siegmund <philipp.siegmund@googlemail.com>
+#   @author Markus Tacker <m@tacker.org>
+#   @version $Id: README 86 2009-12-16 13:56:15Z m $
+#
+ 
+Text-Version: 
+	console/SpielDesLebensConsole.java ausführen
+	
+Applet-Version: 
+	applet/SpielDesLebensApplet.java ausführen
+	
+Einige Beispiel-Muster finden sich in der Datei
+	Muster-Beispiele.txt
